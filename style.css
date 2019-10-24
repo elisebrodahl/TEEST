@@ -1,0 +1,46 @@
+header{
+  background-image: url(https://www.bestfunforall.com/better/imgs/Porsche%20912Related%20Car%20Wallpapers%20wallpaper%20%202.jpg);
+  background-size: cover;
+  height: 730px;
+}
+body{
+  margin: 0px;
+}
+main{
+  background-image: url(https://free4kwallpapers.com/uploads/originals/2015/11/15/2013-porsche-cayman-by-techart-wallpaper.jpg);
+  background-size: cover;
+  height: 740px;
+  overflow: auto;
+}
+nav{
+  position: fixed;
+}
+
+nav a:hover{
+  font-size: 17px;
+}
+#logo{
+  margin-top: 90px;
+  margin-left: 50px;
+  width: 200px;
+}
+#navbar{
+  margin-right
+  width: 250px;
+  padding: 5px;
+  text-align: right;
+}
+a{
+  text-decoration: none;
+  color: white;
+  opacity: 100%;
+  line-height: 30px;
+}
+img{
+  width: 100%;
+}
+#avsnitt{
+  color: white;
+  width: 300px;
+  margin-left: auto;
+}
